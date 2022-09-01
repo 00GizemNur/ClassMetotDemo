@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FQKLRxhVfQj+HTDF28T4nLjFJCht4BnnFWiA0Q/OMtVWuMsKEfNrWN7pZSGCBLRpZWNn2jjLs7iw2SuMLaF/Pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gizem Nur\\source\\repos\\Kampintro\\ClassMetotDemo\\ClassMetotDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gizem Nur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
